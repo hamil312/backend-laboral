@@ -1,0 +1,10 @@
+Muchachos
+Recuerden que deben accionar el comando
+python -m venv venv
+.\venv\Scripts\activate
+para que les descargue la carpeta de venv en su carpeta local en donde van
+a clonar el proyeccto de archi
+descargar los reuierements con
+pip install -r requirements.txt
+ya que en el archivo .gitignore se estan ignorando esta carpeta
+Pilas puessss
